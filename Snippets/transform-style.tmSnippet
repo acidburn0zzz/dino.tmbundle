@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-transform-style: ${1:flat/preserve-3d};$0</string>
+	<key>name</key>
+	<string>transform-style</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>transform-style</string>
+	<key>uuid</key>
+	<string>9880AFC7-8BB1-4712-ACCB-EE76D2284C94</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-transition-duration: ${1:250ms};$0</string>
+	<key>name</key>
+	<string>transition-duration</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>tdur</string>
+	<key>uuid</key>
+	<string>9BBA6EBE-9884-4A5D-AFB4-8F8553AC1025</string>
+</dict>
+</plist>

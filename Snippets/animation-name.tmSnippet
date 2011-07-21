@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-animation-name: $1;$0
+</string>
+	<key>name</key>
+	<string>animation-name</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>aname</string>
+	<key>uuid</key>
+	<string>7BE310FF-8152-489B-82B5-3B4B64AE6B24</string>
+</dict>
+</plist>

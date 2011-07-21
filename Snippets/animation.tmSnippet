@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-animation-name: $1;
+-webkit-animation-duration: ${2:1s};
+-webkit-animation-timing-function: ${3:ease/linear/ease-in/ease-out/ease-in-out/cubic-bezier};
+-webkit-animation-delay: ${4:0s};
+-webkit-animation-iteration-count: ${5:infinite};
+-webkit-animation-direction: ${6:normal/alternate};
+-webkit-animation-fill-mode: ${7:none/forwards/backwards/both};$0
+</string>
+	<key>name</key>
+	<string>animation</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>animation</string>
+	<key>uuid</key>
+	<string>354CA519-A02E-47CB-996A-5178E101235D</string>
+</dict>
+</plist>

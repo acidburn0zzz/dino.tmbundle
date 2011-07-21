@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-perspective-origin: ${1:50% 50%};$0</string>
+	<key>name</key>
+	<string>perspective-origin</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>perspective</string>
+	<key>uuid</key>
+	<string>2B4A6731-3F1D-4DE7-BD44-827C76F8DF86</string>
+</dict>
+</plist>

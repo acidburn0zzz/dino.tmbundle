@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-animation-fill-mode: ${1:none/forwards/backwards/both};$0
+</string>
+	<key>name</key>
+	<string>animation-fill-mode</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>afm</string>
+	<key>uuid</key>
+	<string>AEA95F2E-7416-4319-84F8-FE729F48FB65</string>
+</dict>
+</plist>

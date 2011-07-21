@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-perspective: ${1:600};$0</string>
+	<key>name</key>
+	<string>perspective</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>perspective</string>
+	<key>uuid</key>
+	<string>82F90074-20B5-4BBB-9DCA-F60CC5DCC6DA</string>
+</dict>
+</plist>

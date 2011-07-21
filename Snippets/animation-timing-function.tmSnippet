@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-animation-timing-function: ${1:ease/linear/ease-in/ease-out/ease-in-out/cubic-bezier};$0
+</string>
+	<key>name</key>
+	<string>animation-timing-function</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>atf</string>
+	<key>uuid</key>
+	<string>B147C0E7-6A42-4B1B-9126-0825C7DE068D</string>
+</dict>
+</plist>
