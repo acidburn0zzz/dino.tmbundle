@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;meta name="viewport" content="${1:width=device-width,initial-scale=1,user-scalable=no}"&gt;
+$0</string>
+	<key>name</key>
+	<string>viewport</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>viewport</string>
+	<key>uuid</key>
+	<string>021C7020-5E4B-46C0-8F2F-A0CE905DF54D</string>
+</dict>
+</plist>
