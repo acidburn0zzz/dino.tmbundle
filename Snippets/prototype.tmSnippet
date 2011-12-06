@@ -3,14 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;!doctype html&gt;</string>
+	<string>$1.prototype.$2 = function ($3) {
+  $4
+};
+
+</string>
 	<key>name</key>
-	<string>HTML5</string>
+	<string>prototype</string>
 	<key>scope</key>
-	<string>text.html</string>
+	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>doctype</string>
+	<string>p</string>
 	<key>uuid</key>
-	<string>ADA99CAE-17B3-4DC7-90C7-14E0DAC78413</string>
+	<string>E71399C0-BFFA-44BC-9754-D9FE2DA009BA</string>
 </dict>
 </plist>
