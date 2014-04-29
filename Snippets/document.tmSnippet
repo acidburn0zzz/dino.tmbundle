@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>console.log(${1:$TM_SELECTED_TEXT});</string>
+	<string>document.</string>
 	<key>name</key>
-	<string>console.log</string>
+	<string>document</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>log</string>
+	<string>d</string>
 	<key>uuid</key>
-	<string>3D3B81F4-0C61-4AA0-8A11-E58D8C81211B</string>
+	<string>C8CEC09C-086C-4051-80E0-3A316C238079</string>
 </dict>
 </plist>
